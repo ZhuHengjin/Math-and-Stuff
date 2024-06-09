@@ -12,6 +12,7 @@ aliases:
 ## Del Operator
 
 The $Del \ Operator$, denoted $\nabla$, can be viewed as both a differential operator and a vector it self. In $\mathbb{R}^3$, the Del Operator is defined as
+
 $$
 \nabla = 
 \left \langle 
@@ -22,7 +23,9 @@ $$
 }
 \right \rangle
 $$
+
 More generally, the Del operator in $\mathbb{R}^{n}$ is
+
 $$
 \nabla = 
 \left \langle 
