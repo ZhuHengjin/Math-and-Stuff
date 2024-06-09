@@ -4,6 +4,7 @@ tags:
 dlink: "[[-Applications of Integral]]"
 date: 2024-06-09
 aliases:
+  - 矩，质心与形心
 ---
 
 ## Moment
